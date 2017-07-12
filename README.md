@@ -8,12 +8,12 @@ This application requires a Windows Mixed Reality-ready PC and immersive headset
 *Device*      Hololens with Windows Holographic 10.0.14393  
 
 #### Screenshots ####
-1. Unity project
+1. Unity project  
 ![](/Pictures/UnityProject1.png)
 
-2. Screenshots in HoloLens
-![](/Pictures/AppScreenShot1.png)
+2. Screenshots in HoloLens  
+![](/Pictures/AppScreenShot1.png)  
 
-![](/Pictures/AppScreenShot2.png)
+![](/Pictures/AppScreenShot2.png)  
 
-P.S. Demo video in this project was downloaded online.
+P.S. Demo video in this project was downloaded online.  
