@@ -13,7 +13,6 @@ This application requires a Windows Mixed Reality-ready PC and immersive headset
 
 2. Screenshots in HoloLens  
 ![](/Pictures/AppScreenShot1.png)  
-
 ![](/Pictures/AppScreenShot2.png)  
 
 P.S. Demo video in this project was downloaded online.  
